@@ -1,0 +1,4 @@
+-There is a saved version of the plot of SGD vs BGD. It plots the average across over 5 runs at each iteration step.
+-A new plot will be generated if one simply runs script_regression.py, although it will not be saved by the program automatically.
+-The training error for each of lasso, stochastic, and batch gradient descent is sent to standard output for each iteration.
+-The average test error for each algorithm is reported at the end of all of the runs, along with the standard error.
